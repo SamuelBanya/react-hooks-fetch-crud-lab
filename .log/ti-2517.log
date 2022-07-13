@@ -1,0 +1,47 @@
+[17:10:26.622] Global cache location '/Users/samuelbanya/Library/Caches/typescript/4.7', safe file path '/users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/typingsafelist.json', types map path /users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/typesmap.json
+[17:10:26.625] Processing cache location '/Users/samuelbanya/Library/Caches/typescript/4.7'
+[17:10:26.625] Trying to find '/Users/samuelbanya/Library/Caches/typescript/4.7/package.json'...
+[17:10:26.627] Loaded content of '/Users/samuelbanya/Library/Caches/typescript/4.7/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.600"},"devDependencies":{"@types/aria-query":"^5.0.0","@types/jest":"^28.1.4","@types/mocha":"^9.1.1","@types/node":"^18.0.0","@types/object-assign":"^4.0.30","@types/react":"^18.0.15","@types/react-dom":"^18.0.6","@types/testing-library__jest-dom":"^5.14.5","@types/uuid":"^8.3.4"}}
+[17:10:26.627] Loaded content of '/Users/samuelbanya/Library/Caches/typescript/4.7/package-lock.json'
+[17:10:26.643] Adding entry into typings cache: 'aria-query' => '/Users/samuelbanya/Library/Caches/typescript/4.7/node_modules/@types/aria-query/index.d.ts'
+[17:10:26.649] Adding entry into typings cache: 'jest' => '/Users/samuelbanya/Library/Caches/typescript/4.7/node_modules/@types/jest/index.d.ts'
+[17:10:26.654] Adding entry into typings cache: 'mocha' => '/Users/samuelbanya/Library/Caches/typescript/4.7/node_modules/@types/mocha/index.d.ts'
+[17:10:26.662] Adding entry into typings cache: 'node' => '/Users/samuelbanya/Library/Caches/typescript/4.7/node_modules/@types/node/index.d.ts'
+[17:10:26.664] Adding entry into typings cache: 'object-assign' => '/Users/samuelbanya/Library/Caches/typescript/4.7/node_modules/@types/object-assign/index.d.ts'
+[17:10:26.669] Adding entry into typings cache: 'react' => '/Users/samuelbanya/Library/Caches/typescript/4.7/node_modules/@types/react/index.d.ts'
+[17:10:26.672] Adding entry into typings cache: 'react-dom' => '/Users/samuelbanya/Library/Caches/typescript/4.7/node_modules/@types/react-dom/index.d.ts'
+[17:10:26.675] Adding entry into typings cache: 'testing-library__jest-dom' => '/Users/samuelbanya/Library/Caches/typescript/4.7/node_modules/@types/testing-library__jest-dom/index.d.ts'
+[17:10:26.679] Adding entry into typings cache: 'uuid' => '/Users/samuelbanya/Library/Caches/typescript/4.7/node_modules/@types/uuid/index.d.ts'
+[17:10:26.680] Finished processing cache location '/Users/samuelbanya/Library/Caches/typescript/4.7'
+[17:10:26.680] Process id: 2519
+[17:10:26.681] NPM location: /Users/samuelbanya/.nvm/versions/node/v16.14.2/bin/npm (explicit '--npmLocation' not  provided)
+[17:10:26.681] validateDefaultNpmLocation: false
+[17:10:26.681] Npm config file: /Users/samuelbanya/Library/Caches/typescript/4.7/package.json
+[17:10:26.681] Updating types-registry npm package...
+[17:10:26.682] Exec: /Users/samuelbanya/.nvm/versions/node/v16.14.2/bin/npm install --ignore-scripts types-registry@latest
+[17:10:27.769]     Succeeded. stdout:
+    
+    up to date, audited 30 packages in 630ms
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[17:10:27.770] Updated types-registry npm package
+[17:10:29.688] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/lib.es5.d.ts","/Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/lib.es2015.d.ts","/Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/lib.es2016.d.ts","/Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/lib.dom.d.ts","/Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/Users/samuelbanya/hub/Development/code/phase-2/react-hooks-fetch-crud-lab/src/components/AdminNavBar.js","/Users/samuelbanya/hub/Development/code/phase-2/react-hooks-fetch-crud-lab/src/components/QuestionForm.js","/Users/samuelbanya/hub/Development/code/phase-2/react-hooks-fetch-crud-lab/src/components/QuestionList.js","/Users/samuelbanya/hub/Development/code/phase-2/react-hooks-fetch-crud-lab/src/components/App.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/Users/samuelbanya/hub/Development/code/phase-2/react-hooks-fetch-crud-lab/src/components","kind":"discover"}
+[17:10:29.702] Loaded safelist from types map file '/users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/typesmap.json'
+[17:10:29.702] Explicitly included types: []
+[17:10:29.703] Inferred typings from unresolved imports: []
+[17:10:29.704] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/samuelbanya/hub/Development/code/phase-2/react-hooks-fetch-crud-lab/src/components/bower_components","/Users/samuelbanya/hub/Development/code/phase-2/react-hooks-fetch-crud-lab/src/components/node_modules"]}
+[17:10:29.704] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/samuelbanya/hub/Development/code/phase-2/react-hooks-fetch-crud-lab/src/components/bower_components","/Users/samuelbanya/hub/Development/code/phase-2/react-hooks-fetch-crud-lab/src/components/node_modules"]}
+[17:10:29.705] DirectoryWatcher:: Added:: WatchInfo: /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-fetch-crud-lab/src/components/bower_components
+[17:10:29.705] DirectoryWatcher:: Added:: WatchInfo: /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-fetch-crud-lab/src/components/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[17:10:29.707] Elapsed:: 1.0461380000051577ms DirectoryWatcher:: Added:: WatchInfo: /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-fetch-crud-lab/src/components/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[17:10:29.707] DirectoryWatcher:: Added:: WatchInfo: /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-fetch-crud-lab/src/components/node_modules
+[17:10:29.707] DirectoryWatcher:: Added:: WatchInfo: /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-fetch-crud-lab/src/components/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[17:10:29.707] Elapsed:: 0.1299330000183545ms DirectoryWatcher:: Added:: WatchInfo: /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-fetch-crud-lab/src/components/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[17:10:29.708] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[17:10:29.709] Response has been sent.
+[17:10:29.709] No new typings were requested as a result of typings discovery
